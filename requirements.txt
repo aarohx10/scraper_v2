@@ -1,0 +1,12 @@
+playwright==1.39.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+PyMuPDF==1.23.3
+python-docx==0.8.11
+openpyxl==3.1.2
+python-pptx==0.6.21
+fastapi==0.104.1
+uvicorn==0.24.0
+python-dotenv==1.0.0
+gunicorn==21.2.0
+pydantic==2.4.2 
